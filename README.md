@@ -4,7 +4,9 @@
 
 A _public_ repository to hold resources and notes from ONS Coffee & Coding sessions in London. GitHub repository idea and layout lovingly sourced from [Department for Transport (DfT)'s repo](https://github.com/departmentfortransport/coffee-and-coding). Interested in what other Government Departments have coffee and coding? Check out the [Government RAP website](https://ukgovdatascience.github.io/rap-website/resource-coffee-and-coding.html).
 
-To get in touch, please contact Hillary at the Data Science Campus via Govdata science slack or ONS email address book. 
+If you would like to attend the ONS Newport Coffee and Coding please check their Github repo for more information https://github.com/datasciencecampus/coffee-and-coding. 
+
+Would you like to collabroate ? or learn more ? Please email hillary.juma@ons.gov.uk for more info. 
 
 ## Our Next Event
 
@@ -26,7 +28,7 @@ The aim of the Coffee & Coding meetups is to nurture, enable and encourage a vib
 
 ## Coffee & Coding Schedule
 
-Please note *events are restricted to ONS employees*, unless individual approval has been given. Please note that currently events are going to be held in ONS London Offices. If you would like to attend the ONS Newport Coffee and Coding please check their Github repo for more information https://github.com/datasciencecampus/coffee-and-coding. 
+Please note *events are restricted to ONS employees*, unless individual approval has been given. Please note that currently events are going to be held in ONS London Offices. 
 
 
 |Date| Time | Room | Title | Presenter | Abstract|
