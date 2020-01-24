@@ -10,7 +10,7 @@ Would you like to collabroate ? or learn more ? Please email hillary.juma@ons.go
 
 ## Our Next Event
 
-Our next event will be 14:00-15:00 on Monday 27th January 2019 in Meeting Room 9. 
+Our next event will be 14:00-15:00 on Monday 27th January 2020 in Meeting Room 9. 
 
 Harriet has kindly offered to speak at the first Coffee and Coding of the 2020, which will be methodology focused and open to all levels. Harriet will be talking about the steps in a typical Machine Learning project, borrowing from the second chapter of Aurelien Geron’s “Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow”. 
 It will hopefully be useful as a refresher for those familiar with building end-to-end machine learning projects, and an introduction for those starting out in data science. All levels welcome.
