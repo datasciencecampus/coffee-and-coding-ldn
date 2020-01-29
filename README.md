@@ -20,13 +20,15 @@ community.
 
 #### For a full schedule of future and past talks [see here](SCHEDULE.md).
 
-Our next meet up will be 11:00-12:30 on Thursday 27 Feb 2020 in Meeting Room 8.
+### Next talk:
 
-```text
-Art will be "breaking your brain with - λ (lambda calculus)". Domain and Range:
+| :--: | :--: |
+| **When?** | Thursday 27 Feb 2020 11:00 - 12:30 |
+| **Where?** | London Meeting Room 9|
+| :--: | :--: |
+| Art will be "breaking your brain with - λ (lambda calculus)". Domain and Range:
 How functional programming can make data science easier. For the curious and
-technical!
-```
+technical! |
 
 ## About this repository
 
