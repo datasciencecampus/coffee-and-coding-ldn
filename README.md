@@ -18,11 +18,13 @@ community.
 
 ## Our Next Event
 
+For a full schedule of future and past talks [see here](SCHEDULE.md).
+
 Our next meet up will be 11:00-12:30 on Thursday 27 Feb 2020 in Meeting Room 8.
 
-Art will be "breaking your brain with - λ (lambda calculus)". Domain and Range:
-How functional programming can make data science easier. For the curious and the
-technical!
+> Art will be "breaking your brain with - λ (lambda calculus)". Domain and Range:
+> How functional programming can make data science easier. For the curious and
+> technical!
 
 ## About this repository
 
@@ -41,13 +43,9 @@ https://github.com/datasciencecampus/coffee-and-coding.
 Would you like to collaborate or learn more ? Please email
 hillary.juma@ons.gov.uk for more information.
 
-## Coffee & Coding Schedule
-
 Please note _events are restricted to ONS employees_, unless individual approval
 has been given. Please note that currently events are going to be held in ONS
 London Offices in Pimlico.
-
-For a full schedule of future and past talks [see here](SCHEDULE.md).
 
 ## Contributing
 
