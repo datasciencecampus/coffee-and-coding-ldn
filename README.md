@@ -22,11 +22,9 @@ community.
 
 ### Next talk:
 
-|       **When?**       |             **Where?**             |
-| :-------------------: | :--------------------------------: |
-| London Meeting Room 9 | Thursday 27 Feb 2020 11:00 - 12:30 |
-
-#### What?
+- **When?** London Meeting Room 9
+- **Where?** Thursday 27 Feb 2020 11:00 - 12:30 |
+- **What?**
 
 ```
 Art will be "breaking your brain with - λ (lambda calculus)". Domain and Range:
