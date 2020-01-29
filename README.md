@@ -35,7 +35,7 @@ Thursday 27 Feb 2020 11:00 - 12:30
 ```
 Art will be "breaking your brain with - λ (lambda calculus)". Domain and Range:
 How functional programming can make data science easier. For the curious and
-technical! |
+technical!
 ```
 
 ## About this repository
