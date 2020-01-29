@@ -16,6 +16,14 @@ invite external speakers. The Code Surgery provides the opportunity for people
 to pose any coding related queries/ruminations/ideas to the gathered coding
 community.
 
+## Our Next Event
+
+Our next meet up will be 11:00-12:30 on Thursday 27 Feb 2020 in Meeting Room 8.
+
+Art will be "breaking your brain with - λ (lambda calculus)". Domain and Range:
+How functional programming can make data science easier. For the curious and the
+technical!
+
 ## About this repository
 
 A _public_ repository to hold resources and notes from ONS Coffee & Coding
@@ -40,14 +48,6 @@ has been given. Please note that currently events are going to be held in ONS
 London Offices in Pimlico.
 
 For a full schedule of future and past talks [see here](SCHEDULE.md).
-
-### Our Next Event
-
-Our next meet up will be 11:00-12:30 on Thursday 27 Feb 2020 in Meeting Room 8.
-
-Art will be "breaking your brain with - λ (lambda calculus)". Domain and Range:
-How functional programming can make data science easier. For the curious and the
-technical!
 
 ## Contributing
 
