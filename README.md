@@ -12,9 +12,10 @@ The format is generally 40 minutes for a presentation and questions to the
 presenter/s followed by an informal Code Surgery. The presentations usually take
 the form of a demonstration of a tool or technique and/or a show and tell of
 work done within the department using these methods. From time to time we will
-invite external speakers. The Code Surgery provides the opportunity for people
-to pose any coding related queries/ruminations/ideas to the gathered coding
-community.
+invite external speakers.
+
+The Code Surgery provides the opportunity for people to pose any coding related
+queries/ruminations/ideas to the gathered coding community.
 
 ## About this repository
 
@@ -30,8 +31,8 @@ If you would like to attend the ONS Newport Coffee and Coding please check their
 Github repo for more information
 https://github.com/datasciencecampus/coffee-and-coding.
 
-Would you like to collaborate ? or learn more ? Please email
-hillary.juma@ons.gov.uk for more info.
+Would you like to collaborate or learn more ? Please email
+hillary.juma@ons.gov.uk for more information.
 
 ## Coffee & Coding Schedule
 
@@ -39,16 +40,9 @@ Please note _events are restricted to ONS employees_, unless individual approval
 has been given. Please note that currently events are going to be held in ONS
 London Offices in Pimlico.
 
-<<<<<<< Updated upstream
-Our next event will be 15:00-16:00 on Monday 27th January 2020 in Meeting Room 9. 
-
-Harriet has kindly offered to speak at the first Coffee and Coding of the 2020, which will be methodology focused and open to all levels. Harriet will be talking about the steps in a typical Machine Learning project, borrowing from the second chapter of Aurelien Geron’s “Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow”. 
-It will hopefully be useful as a refresher for those familiar with building end-to-end machine learning projects, and an introduction for those starting out in data science. All levels welcome.
-=======
 For a full schedule of future and past talks [see here](SCHEDULE.md).
 
 ### Our Next Event
->>>>>>> Stashed changes
 
 Our next meet up will be 11:00-12:30 on Thursday 27 Feb 2020 in Meeting Room 8.
 
@@ -63,15 +57,5 @@ branch and submit a pull request.
 
 Folders should adhere to the following conventions:
 
-<<<<<<< Updated upstream
-|Date| Time | Room | Title | Presenter | Abstract|
-|:----------------:|:----:|:---:|:---------:|:--------------------:|:-------------------------------|
-| Thursday 27 Feb 2020 | 11:00 - 12:30 | LDN 9 | Breaking your brain with - λ | Art | Domain and Range: How functional programming can make data science easier.|
-| Monday 27 Jan 2020 | 15:00 - 16:00 | LDN 9 | [End-to-End Machine Learning](https://github.com/datasciencecampus/coffee-and-coding-LDN/blob/develop/pasttalks/ML_012929.md) | Harriet | Harriet will be talking about the steps in a typical Machine Learning project, borrowing from the second chapter of Aurelien Geron’s “Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow”. |
-| Thursday 19 Dec 2019 | 12:00 - 13:00 | LDN 8 | Coffee & Coding Code Surgery Drop-In Session| - | An opportunity to discuss any coding problems you are having or perhaps find better ways of solving issues. <br>Open to coders of any level or those who have not started yet and want some guidance on how to begin. |
-| Thursday 28 Nov 2019 | 10:30 - 11:30 | LDN 9 | Semantic Network Analysis | Fergus |Fergus shows how his project uses semantic network analysis to analyse responses from Sustainable Development Goals Consultation. In particular exploring, visualising and measuring relationship between words in an embedded model for text classification. |
-|Thursday 31 Oct 2019 | 12:00 - 13:00 | LDN 1 | Trick or Treat of Python | Art | The session will include an icebreaker on the tricks and treats of learning new techniques/technologies. Art will be presenting on Python Gottcha’s through an inteactive session. https://finnkauski.github.io/cc-oct2019-ldn/ |
-=======
 - `YYYYMMDD_Topic_Name`
 - All folders should contain a `README.md` with notes or a brief explanation
->>>>>>> Stashed changes
