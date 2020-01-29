@@ -12,10 +12,9 @@ The format is generally 40 minutes for a presentation and questions to the
 presenter/s followed by an informal Code Surgery. The presentations usually take
 the form of a demonstration of a tool or technique and/or a show and tell of
 work done within the department using these methods. From time to time we will
-invite external speakers.
-
-The Code Surgery provides the opportunity for people to pose any coding related
-queries/ruminations/ideas to the gathered coding community.
+invite external speakers. The Code Surgery provides the opportunity for people
+to pose any coding related queries/ruminations/ideas to the gathered coding
+community.
 
 ## About this repository
 
