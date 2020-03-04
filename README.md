@@ -24,18 +24,16 @@ community.
 
 #### When?
 
-London Meeting Room 9
+London Meeting Room 8
 
 #### Where?
 
-Thursday 27 Feb 2020 11:00 - 12:30
+Tuesday 24 Mar 2020 11:00 - 12:30
 
 #### What?
 
 ```
-Art will be "breaking your brain with - λ (lambda calculus)". Domain and Range:
-How functional programming can make data science easier. For the curious and
-technical!
+Alex, will be talking on Domain and Range: We look at reproducibility, first conceptually and then practically. What is reproducibility and how do we do it with basic analysis, statistical models, and machine learning? Then we will explore tools that we can use to ensure our research can last into the future.
 ```
 
 ## About this repository
