@@ -22,22 +22,9 @@ community.
 
 ### Next talk:
 
-#### When?
+Due to the pandemic we are holding cross-site Coffee and Codings. For more details please check here:
 
-London Meeting Room 8
-
-#### Where?
-
-Tuesday 24 Mar 2020 11:00 - 12:30
-
-#### What?
-
-```
-
-Alex, will be talking on Domain and Range: We look at reproducibility, first conceptually and then practically. 
-What is reproducibility and how do we do it with basic analysis, statistical models, and machine learning? 
-Then we will explore tools that we can use to ensure our research can last into the future.
-
+https://github.com/datasciencecampus/coffee-and-coding
 
 ```
 
